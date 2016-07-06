@@ -2,4 +2,4 @@
 
 - Hexo_Nginx
 
-Hexo的Nginx编译参数及配置文件
+Hexo博客的Nginx编译参数及配置文件
